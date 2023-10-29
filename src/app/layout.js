@@ -6,8 +6,8 @@ import { ThemeProvider } from "@/context/ThemeContext";
 import AuthProvider from "@/components/AuthProvider/AuthProvider";
 const inter = Inter({ subsets: ["latin"] });
 export const metadata = {
-  title: "Upload here",
-  description: "This is the description",
+  title: "Uploadhere ",
+  description: "Here you can upload blogs",
 };
 
 export default function RootLayout({ children }) {
