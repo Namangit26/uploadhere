@@ -1,24 +1,21 @@
 {
-  "name": "uploadhere",
+  "name": "nexttutorial",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "CI= npm run build",
+    "build": "next build",
     "start": "next start",
     "lint": "next lint"
   },
   "dependencies": {
-    "bcryptjs": "^2.4.3",
-    "mongoose": "^7.6.3",
-    "next": "^14.0.1-canary.0",
-    "next-auth": "^4.24.3",
-    "react": "^18",
-    "react-dom": "^18",
-    "swr": "^2.2.4"
-  },
-  "devDependencies": {
-    "eslint": "^8",
-    "eslint-config-next": "13.5.5"
+    "eslint": "8.41.0",
+    "eslint-config-next": "13.4.3",
+    "mongoose": "^6.12.2",
+    "next": "^13.5.6",
+    "next-auth": "^4.22.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "swr": "^2.1.5"
   }
 }
