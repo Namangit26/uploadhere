@@ -37,18 +37,18 @@ const About = () => {
 
             What sets us apart is our unwavering commitment to quality and
             innovation. We believe that each project is a canvas for innovation, and
-            we take pride in pushing the boundaries of what's possible in the digital
+            we take pride in pushing the boundaries of whats possible in the digital
             realm. Our work is a reflection of our creativity, attention to detail,
             and a deep understanding of the ever-evolving digital landscape.
 
-            Whether you're a startup looking to establish your online presence or a
-            well-established company seeking a digital transformation, we're here
+            Whether youre a startup looking to establish your online presence or a
+            well-established company seeking a digital transformation, were here
             to transform your vision into captivating digital experiences. We
             understand that every project is unique, and we tailor our solutions to
             meet your specific needs and objectives.
 
             Join us on this exciting journey as we continue to write our story as
-            "Digital Storytellers," and let's create digital experiences that
+            &ldquo;Digital Storytellers,&rdquo; and lets create digital experiences that
             leave a lasting impression.
           </p>
 
