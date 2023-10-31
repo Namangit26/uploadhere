@@ -5,7 +5,7 @@ import Image from "next/image";
 
 async function getData() {
   try {
-    const res = await fetch("http://localhost:3000/api/posts", {
+    const res = await fetch("https://uploadhere.vercel.app/api/posts", {
       cache: "no-store",
     });
 
@@ -16,7 +16,7 @@ async function getData() {
     return res.json();
   } catch (error) {
     console.error("Error fetching data:", error);
-    return []; // Return an empty array or handle the error as appropriate for your use case.
+    return []; 
   }
 }
 
